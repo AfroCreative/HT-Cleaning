@@ -21,5 +21,5 @@ Both pages are single, self-contained HTML files with no build step. Open them i
 ## Important notes
 
 - **Admin dashboard storage:** the dashboard saves data through Claude's artifact storage, which only works when it's opened as the Claude artifact. Opened from GitHub Pages or a local file, it runs in **preview mode**, where nothing is saved. Don't publish `admin/` as your live admin tool until it's connected to a real backend (for example Supabase or Firebase) with a login.
-- **Website placeholders:** replace "Your Cleaning Co.", `(614) 555-0123` and `hello@yourcleaningco.com` with your real details. Remove "Insured & bonded" and "background-checked" until they're true.
+- **Website placeholders:** replace `(614) 555-0123` and `hello@yourcleaningco.com` with your real details. Remove "Insured & bonded" and "background-checked" until they're true.
 - **Quote form:** it isn't connected to anything yet. Visitors are asked to copy their details and email or call. To have requests land in your inbox, connect the form to a service such as Formspree.

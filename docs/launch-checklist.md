@@ -12,7 +12,7 @@
 - [ ] Buy a domain and email and point the website at it
 
 ## Website before launch
-- [ ] Replace placeholders: "Your Cleaning Co.", (614) 555-0123, hello@yourcleaningco.com
+- [ ] Replace placeholders: (614) 555-0123, hello@yourcleaningco.com
 - [ ] Remove "Insured & bonded" and "background-checked" until they're true
 - [ ] Connect the quote form to a form service (e.g. Formspree) so requests reach your email
 
